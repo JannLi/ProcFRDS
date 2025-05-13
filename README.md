@@ -2,7 +2,7 @@ ProcFRDS is a toolkit to synthesize images based on Blender with the mode of Vir
 
 The procedure is as shown below and with our procedure, we can synthesize any wanted objects in target images for different tasks.
 
-![Example Image](demo/procedure.jpg)
+![Example Image](demo/procedure.png)
 
 ### Requirements
     python 3.11
@@ -25,4 +25,4 @@ Each pose includes 6 elements: rotation(pitch, roll, yaw) and location(x, y, z) 
 ### Running Examples
     python scripts/vr_generation.py --car_file object_CAD_model_path --pose_file pose_file_path --ori_img original_image_path --out_path output_rendered_image_path
 ### Output Demo
-![Demo Image](demo/demo.jpg)
+![Demo Image](demo/demo.png)
