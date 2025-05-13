@@ -1,0 +1,1 @@
+ProcFRDS is a toolkit to synthesize images based on Blender with the mode of Virtuality & Reality which means synthesizing objects and combining them with real images. The toolkit corresponds to that we used in the paper "Vista+, a data-driven synthetic data generation framework based on a single-view novel niew synthesis(NVS) method for autonomous driving".
