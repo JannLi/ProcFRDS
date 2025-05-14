@@ -26,3 +26,5 @@ Each pose includes 6 elements: rotation(pitch, roll, yaw) and location(x, y, z) 
     python scripts/vr_generation.py --car_file object_CAD_model_path --pose_file pose_file_path --ori_img original_image_path --out_path output_rendered_image_path
 ### Output Demo
 ![Demo Image](demo/demo.png)
+
+The object masks could be used for the task of semantic segmentation and the image harmony in the following postprocess.
